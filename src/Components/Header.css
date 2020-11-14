@@ -1,0 +1,23 @@
+header.mainHeader{
+    background-color: #425310;
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.mainHeader ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.mainHeader li{
+    padding: 10px;
+    background-color: #333333
+}
+.mainHeader li a{
+    text-decoration: none;
+    color: inherit;
+    border: 1px solid black;
+    padding: 10px;
+}
